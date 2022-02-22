@@ -1,0 +1,408 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The crib of ioy containing spirituall exercise, for Christmasse. S. Steuen. S. Iohn. Innocents. Circumcision. Epiphanie.</title>
+            <title>Crib of joy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1611</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19605</idno>
+            <idno type="STC">STC 6039.5</idno>
+            <idno type="STC">ESTC S120351</idno>
+            <idno type="EEBO-CITATION">99855550</idno>
+            <idno type="PROQUEST">99855550</idno>
+            <idno type="VID">21045</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21045)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 583:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The crib of ioy containing spirituall exercise, for Christmasse. S. Steuen. S. Iohn. Innocents. Circumcision. Epiphanie.</title>
+                  <title>Crib of joy.</title>
+               </titleStmt>
+               <extent>[48] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by R. Field] for Christopher Purset, dwelling neare Staple Inne in Holborne, at the signe of Marie Magdalens Head,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1611.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-F⁴ G²  (-A1,G2).</note>
+                  <note>Formerly STC 20514.</note>
+                  <note>Identified as STC 20514 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  Prayer-books and devotions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:21045:1"/>
+            <pb facs="tcp:21045:1" rendition="simple:additions"/>
+            <p>THE CRIB OF IOY: Containing Spirituall Exerciſe, <hi>for</hi>
+               <list>
+                  <item>Chriſtmaſſe.</item>
+                  <item>S. Steuen.</item>
+                  <item>S. Iohn.</item>
+                  <item>Innocents.</item>
+                  <item>Circumciſion.</item>
+                  <item>Epiphanie.</item>
+               </list>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Iohn 7.37.</hi>
+               </bibl>
+               <p>In the laſt and great day of the Feaſt, Ieſus ſtood vp, and cried, ſaying: If any thirst, let him come to me, and drinke.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for Chriſtopher Purſet, dwelling neare Staple Inne in Holborne, at the ſigne of Marie Magdalens Head. 1611.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:21045:2"/>
+            <pb facs="tcp:21045:2" rendition="simple:additions"/>
+            <head>TO THE RIGHT REVEREND FATHER IN God, <hi>Iohn,</hi> by his Diuine prouidence Biſhop of London.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Ight Reuerend, it is the cuſtom of all ſorts of writers, to ſeeke a patro<g ref="char:cmbAbbrStroke">̄</g> for their books dedicatio<g ref="char:cmbAbbrStroke">̄</g>: wherfore I the publiſher herof, being a poore me<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ber of your last flocke (and the Au<g ref="char:EOLhyphen"/>thor to me vnknowne) haue embolde<g ref="char:EOLhyphen"/>ned my ſelfe to chooſe your Lordſhip (knowing none more fit) to be the Guardian of this Orphane, vnder
+<pb facs="tcp:21045:3"/>whoſe protection I render both it and my ſelf: the rather becauſe the earnest deſire of all thoſe who euer read this little Treatiſe, intituled, <hi>The Crib of Ioy,</hi> hath moued me to the publiſh<g ref="char:EOLhyphen"/>ing hereof. Therefore, right Reue<g ref="char:EOLhyphen"/>rend, if either the Worke it ſelfe may receiue paſſage through your Lord<g ref="char:EOLhyphen"/>ſhips good fauour, or my duty towards you herein may be accepted, crauing pardon for my preſumption, I end, continuing my prayers for your long life, with eternall happineſſe:</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordſhips moſt humbly to be commanded,</hi> Christopher Purſet.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:21045:3" rendition="simple:additions"/>
+            <head>CHRISTMAS DAY.</head>
+            <head type="sub">The three circumstances of per<g ref="char:EOLhyphen"/>ſon, time, and place, may draw the lineaments of this dayes ioy.</head>
+            <p n="1">1 <seg rend="decorInit">W</seg>E may reioyce, that our <hi>Sauiour</hi> and Reconciler to God, was manife<g ref="char:EOLhyphen"/>ſted this day, to be a perſon, and no inferior creature: That the Iewiſh ſacrifice of beaſts, and birds, or other oblations, were not in them ſelues propitiatorie: but in eye to a wor<g ref="char:EOLhyphen"/>thier Mediatour. It had bene a diſgrace to our reaſonable ſoule, the image of God,
+<pb facs="tcp:21045:4"/>to haue bene valued at ſo baſe a price: An indignitie to God himſelfe, to haue had his anger againſt ſinners alayed and his iuſtice ſatisfied with the killing of a calfe: a thing vndecent in our conceit, prepo<g ref="char:EOLhyphen"/>ſterous in nature,<note place="margin">Heb. 10.4.</note> vnpoſſible that the bloud of Buls and Goates ſhould take a<g ref="char:EOLhyphen"/>way the ſinnes of the ſoule.</p>
+            <p n="2">2 VVe may much more reioice, that it was not the perſon of anie man, or An<g ref="char:EOLhyphen"/>gell, or new made creature; but of God himſelfe manifeſted in the fleſh.</p>
+            <p>If <hi>Noah,</hi>
+               <note place="margin">Ezck. 14.14.</note> 
+               <hi>Daniel,</hi> and <hi>Iob</hi> ſhould ſtand vp before God, and make interceſſion for vs; God telleth vs, they ſhould onely ſaue their owne ſoules: and yet not that nei<g ref="char:EOLhyphen"/>ther, without further mediation. <hi>Noahs</hi> wine muſt needs be don away with bloud: <hi>Iobs</hi> ſinne with ſacrifice, and <hi>Daniels</hi> im<g ref="char:EOLhyphen"/>perfection with mercie.</p>
+            <p>If a holy Angell ſhould ſet his puritie betweene God and vs; he might iuſtifie himſelfe: but his white robes of innocen<g ref="char:EOLhyphen"/>cie
+<pb facs="tcp:21045:4" rendition="simple:additions"/>were too ſhort to couer our naked<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>If anie creature ſhould offer himſelfe to death for vs, we might thanke him for his good will; but he had neither autho<g ref="char:EOLhyphen"/>ritie to lay downe his life for another, nor power to take it vp againe for himſelfe.</p>
+            <p>Our Mediatour is <hi>God</hi> and <hi>Man,</hi> one Chriſt. <hi>God:</hi> that he might pacifie and ſa<g ref="char:EOLhyphen"/>tisfie, by his worth, the perſon offended; for he is as good as he. <hi>Man:</hi> that he might ſuffer for the offendor; for he is fleſh and bloud of the ſame nature with vs. One <hi>Christ:</hi> that he might vnite <hi>God</hi> and <hi>Man</hi> inſeparably, who were diſioyned before by ſinne: for the ſame perſon, who, as <hi>Man</hi> loueth <hi>man,</hi> being alſo <hi>God</hi> is infinitely beloued of <hi>God:</hi> the ſame <hi>Chriſt</hi> an inter<g ref="char:EOLhyphen"/>ceſſour for <hi>man</hi> in his manhood, cannot be denied of his <hi>Father</hi> for his Godhead ſake. Therefore ſo long as his humanitie ſticketh faſt to his diuinitie, tyed with that inſeparable knot of the vnitie of perſon
+<pb facs="tcp:21045:5"/>(which the point of the ſpeare could not diſſolue) herein is our reioycing,<note place="margin">Rom. 8.38.39</note> 
+               <hi>That nei<g ref="char:EOLhyphen"/>ther death, nor life, nor Angels, nor princi<g ref="char:EOLhyphen"/>palities, nor powers, nor things preſent, nor things to come, nor height, nor depth, nor any other creature, ſhall be able to ſeparate vs from the loue of God which is in Chriſt Ieſus our Lord.</hi>
+            </p>
+            <p n="3">3 VVe may moſt of all reioyce, that of the diuine perſons, the ſecond was this day incarnate, for in him the loue of <hi>God</hi> is doubled vpon vs; <hi>God the Father</hi> loued vs before he gaue his <hi>Sonne:</hi> had he not loued vs, he had neuer beſtowed ſo preci<g ref="char:EOLhyphen"/>ous a gift vpon vs; but hauing now giuen his <hi>Sonne,</hi> thereby to make vs ſonnes, he muſt needes loue vs one degree more, in that we are his ſonnes. <hi>God the Sonne</hi> lo<g ref="char:EOLhyphen"/>ued vs before he became man: but being incarnate, we may challenge a degree of loue more, in that we are his brethren. He loued vs before he gaue himſelfe: much more now we are his owne, for he hath
+<pb facs="tcp:21045:5" rendition="simple:additions"/>dearely bought vs. That precious oint<g ref="char:EOLhyphen"/>ment ſtreaming from <hi>Aarons</hi> head; that bleſſed <hi>Spirit,</hi> which the <hi>Sonne our Sauiour,</hi> of his fulneſſe diſtilleth vpon vs, loued vs, in that he ouerſhadowed the <hi>Virgin</hi> for vs; loued vs, in that he infuſed faith into vs, re<g ref="char:EOLhyphen"/>newed our hearts, reformed our wils, ſan<g ref="char:EOLhyphen"/>ctified our perſons: but ſhall hee not now loue his handie worke much more, where<g ref="char:EOLhyphen"/>upon he hath beſtowed ſuch coſt? If <hi>God</hi> loued vs when we were ſtrangers, runna<g ref="char:EOLhyphen"/>gates, rebels; and ſo loued vs as he then intended to adopt vs: what will a fatherly affection moue him vnto? If the <hi>Sonne</hi> lo<g ref="char:EOLhyphen"/>ued vs when we were yet his enemies, and ſo loued vs, as he forſooke himſelfe for vs: is it not intended he will loue his friends, and brethren, heires and fellow-heires of the ſame kingdome? If the <hi>holy Ghoſt</hi> lo<g ref="char:EOLhyphen"/>ued vs, and ſo loued vs as he tooke in hand ſuch vntoward prices, ſuch hard hearts, ſuch waiward and crooked affections; ſhal we doubt, that dwelling in vs, as in holy
+<pb facs="tcp:21045:6"/>temples, he will not keepe vs in reparati<g ref="char:EOLhyphen"/>ons? Thus the triple loue of the bleſſed Trinitie is multiplied vpon vs; they all loue vs, becauſe they loued vs; they loued vs, that they might loue vs more; they loue vs more, in that the ſecond perſon, being the naturall Sonne, hath made vs adopted ſonnes: in whom God is our Father, and from whom the holy Spirit is deriued.</p>
+            <p>Reioyce then, that he was a perſon, and no inferiour creature; a diuine perſon, and no creature: and againe I ſay reioyce, in that the ſecond perſon in Trinitie, the e<g ref="char:EOLhyphen"/>ternall Sonne of God, as vpon this day was borne of a pure virgin.</p>
+            <div type="section">
+               <head>
+                  <hi>2.</hi> Circumſtance.</head>
+               <p>THat which is good, rare, and bringeth ioy with it, muſt needs be acceptable vnto vs: but yet more welcome if it come in an acceptable time.</p>
+               <p n="1">1 In good time was Chriſt borne, when
+<pb facs="tcp:21045:6" rendition="simple:additions"/>the Scepter was departed from Iuda,<note place="margin">Gen. 49.10.</note> and a law-giuer from his feete. VVhen Iſrael was ſubiect to the Romanes; and the true Iſraelites made ſeruants vnto them that were ſlaues vnto ſinne: then was that little <hi>Stone,</hi> cut out without hands,<note place="margin">Dan. 2.45.</note> which daſhed the kingdomes in peeces, and became a mightie mountaine. Then was the little <hi>Child</hi> of <hi>Bethlem</hi> incarnate of the virgin without a father, borne without a mid<g ref="char:EOLhyphen"/>wife, ſwadled without a nurſe, preferred without the help of man to an euerlaſting kingdome, to rule ouer vs for our ſpiritual freedome and eternall bliſſe.</p>
+               <p n="2">2 In good time vnder <hi>Auguſtus,</hi> when the world was quiet from the ſword, and at leiſure to liſten after the great field fought for our ſoules, was our grand Cap<g ref="char:EOLhyphen"/>taine borne. Then might the Goſpell haue a free paſſage, and the ſound thereof be heard from <hi>Bethlem</hi> to <hi>Arabia;</hi> from <hi>Ie<g ref="char:EOLhyphen"/>ruſalem</hi> and <hi>Samaria</hi> vnto the ends of the world.</p>
+               <p n="3">
+                  <pb facs="tcp:21045:7"/> 3 In good time,<note place="margin">Mat. 4.9.</note> when <hi>Sathan</hi> layed claime to all the kingdomes of the world for his owne, and was inueſted with that large title of the <hi>prince,</hi>
+                  <note place="margin">Ioh. 12.31.</note> yea the <hi>god</hi> of this world. VVhen a vniuerſall deluge of ſinne couered the face of the earth, ſo as the holy ſeed of <hi>Abraham</hi> was become a viperous broode: when the regions were white alreadie vnto harueſt,<note place="margin">Ioh. 4.35.</note> and that good corne that was left, readie to ſhed out of the huske and periſh: in this fulneſſe of time did the <hi>King of glorie</hi> arme himſelfe with the frailtie of humane fleſh and bloud to caſt <hi>Sathan</hi> out of his kingdome, to purge the world from him, and prepare the good corne for the euerlaſting barnes.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>3.</hi> Circumstance.</head>
+               <p>THe birth of this great <hi>King,</hi> is a mat<g ref="char:EOLhyphen"/>ter of eſtate, for he is not crowned, but borne a <hi>King:</hi>
+                  <note place="margin">Math. 2.2.</note> the fulneſſe of time wherein hee came maketh expectation;
+<pb facs="tcp:21045:7" rendition="simple:additions"/>not ſo much but the <hi>tankerd-woman of Sa<g ref="char:EOLhyphen"/>maria</hi> lookes for him:<note place="margin">Iob. 4.25.</note> expectation makes prouiſion. VVhere is then the place of his receipt? VVhat citie ſhall entertaine him, whoſe ſeate is in heauen,<note place="margin">Eſai 66.1.</note> and the earth his footſtoole? It muſt be <hi>Ieruſalem</hi> at the leaſt:<note place="margin">Mat. 5.35.</note> For that is the citie of the great <hi>King.</hi>
+               </p>
+               <p>But would you thinke this <hi>King</hi> ſhould remoue his court from <hi>Heauen</hi> to <hi>Bethle<g ref="char:EOLhyphen"/>hem,</hi> the leaſt among the thouſands of Iu<g ref="char:EOLhyphen"/>da?<note place="margin">Mich. 5.2.</note> can you imagine he would take vp a ſtable there for his nurſerie, or a <hi>cratch</hi> for his chaire of eſtate, or a poore carpen<g ref="char:EOLhyphen"/>ter and his wife for his courtiers? Yet ſo it was, and not without cauſe. For vaine man at his firſt entrance to the world, thought himſelfe ſo goodly a creature, that <hi>Paradiſe</hi> was too little for him; he muſt be as <hi>God.</hi>
+               </p>
+               <p>Therefore the mightie <hi>God,</hi> to make amends, looketh as low as man did high: contents himſelfe with a little <hi>Bethlehem,</hi>
+                  <pb facs="tcp:21045:8"/>the leaſt of a thouſand. Miſerable men, the ſonnes of <hi>Adam,</hi> affect pomp and ſtate too much. God, to reforme that, boweth the heauens and comes downe: nay, bow<g ref="char:EOLhyphen"/>eth himſelfe and comes downe, like a ſhowre of raine into a fleece of wooll,<note place="margin">Pſal. 72.6.</note> and makes no noiſe.</p>
+               <p>
+                  <hi>Paul</hi> was ſometimes glad for to grace himſelfe with the place of his birth: <hi>Tar<g ref="char:EOLhyphen"/>ſus</hi> a famous citie of <hi>Cilicia;</hi>
+                  <note place="margin">Act. 21.39.</note> but hee that bringeth all honour with him from hea<g ref="char:EOLhyphen"/>uen, will grace others, but himſelfe be gra<g ref="char:EOLhyphen"/>ced of none. Little <hi>Bethlem</hi> ſhall be hono<g ref="char:EOLhyphen"/>red by his noble birth, when famous <hi>Ieru<g ref="char:EOLhyphen"/>ſalem</hi> by his death ſhall diſhonour her ſelfe. Thus the great <hi>God,</hi> who by birth made himſelfe little, delighteth much to make litle things great; ſo went his <hi>Mothers</hi> ſong of him:<note place="margin">Luk. 1.48.</note> 
+                  <hi>He regardeth the lowlineſse of his handmaide, and he that is mightie hath mag<g ref="char:EOLhyphen"/>nified me.</hi>
+               </p>
+               <p>If the Scripture names be not emptie, but carrie in them matters of prouidence,
+<pb facs="tcp:21045:8" rendition="simple:additions"/>then doth this <hi>Child</hi> of <hi>Bethlem</hi> performe what the name of <hi>Bethlem</hi> did promiſe; It ſignifieth <hi>a houſe of bread:</hi>
+                  <note place="margin">Ioh. 6.33.</note> and this is the <hi>bread of life</hi> which came downe from hea<g ref="char:EOLhyphen"/>uen (vpon this day) into <hi>Bethlem,</hi> like Manna in the wilderneſſe. <hi>Moſes</hi> tels vs,<note place="margin">Exod 16.14.</note> that bread was a ſmall round thing vpon the graſſe. The Angell tels vs, this is a little <hi>Babe,</hi> layd in a manger:<note place="margin">Luk. 2.12.</note> and yet this man<g ref="char:EOLhyphen"/>ger containeth more foode then the wil<g ref="char:EOLhyphen"/>derneſſe and all the barnes in Aegypt; for it feedeth <hi>Ieruſalem</hi> and <hi>Samaria,</hi> and the ends of the world.</p>
+               <p>VVrite this then in the catalogue of this dayes ioy, that <hi>Christ</hi> was borne in <hi>Bethlehem.</hi> 1. If it grieue thee that euer thou waſt proud or high minded, reioyce that <hi>Chriſt</hi> in <hi>Bethlehem</hi> became as lowly as euer thou waſt loftie; amends is made. 2. If thou be little and baſe in thine owne eyes, reioyce; he that choſe the leaſt of the thou<g ref="char:EOLhyphen"/>ſands of <hi>Iuda,</hi> will magnifie thee. 3. If thy ſoule long for foode, and deſire to be ſatiſ<g ref="char:EOLhyphen"/>fied;
+<pb facs="tcp:21045:9"/>come downe from <hi>Bethauen</hi> vnto <hi>Bethlehem,</hi>
+                  <note place="margin">Hoſe. 4.15.</note> from that houſe of iniquitie (which neuer brings contentment, but va<g ref="char:EOLhyphen"/>nitie and vexation) vnto this houſe of An<g ref="char:EOLhyphen"/>gels foode, that bleſſeth the ſoule with e<g ref="char:EOLhyphen"/>uerlaſting felicitie.</p>
+               <p n="2">2 <hi>Bethlem</hi> was but a little towne, yet a towne though; therefore ſome varietie of houſes, though but ſmall. Amongſt theſe hee makes reſort to an Inne. It ſeemes there was but one in the towne, and yet he makes choiſe of that. Me thinkes he comes into the world, as though hee meant not long to ſtay. If he that built heauen and earth, will neither build, nor ſo much as hire an houſe for himſelfe on earth, but take vp an Inne; his purpoſe is in ſhort time to returne home to his Fathers houſe. And this alſo is glad tidings for vs. For he hath giuen his word; if he go before, we ſhall not tarrie long after; he is but gone to prepare a place for vs.<note place="margin">Ioh. 14.2.</note> In his Fathers houſe, there be many manſions, not made
+<pb facs="tcp:21045:9" rendition="simple:additions"/>with hands, but eternall in heauen. Here we are ſtrangers and pilgrimes, and way<g ref="char:EOLhyphen"/>faring men; euen our fathers houſe where we are borne, is but an Inne; here to night, and gone to morrow: but our ſureſt home, our kindeſt Father, our trueſt ioy and feli<g ref="char:EOLhyphen"/>citie is in heauen, elſe are we of all others moſt miſerable.</p>
+               <p n="3">3 VVhat entertainment <hi>Chriſt</hi> found in this Inne, is worth the enquirie. <hi>S. Luke</hi> telleth vs, there was no roome for him;<note place="margin">Luk. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.7.</note> yet roome enough for bibbers and blaſphe<g ref="char:EOLhyphen"/>mers. I make no queſtion then: the <hi>Sonne</hi> of <hi>God</hi> finding no roome in the Inne a<g ref="char:EOLhyphen"/>mongſt men, betakes himſelfe into the ſtable amongſt the beaſts; and yet whether worſe beaſts were in the Inne or ſtable might beare a queſtion. This Inne was not the holieſt houſe in the towne, nor this ſtable the cleaneſt place in the Inne; yet this holy one of <hi>Iſrael</hi> comes to an Inne: <hi>for he came not to call the holy, but ſinners to repentance.</hi>
+               </p>
+               <pb facs="tcp:21045:10" rendition="simple:additions"/>
+               <p> This <hi>Sunne of righteouſneſſe</hi> may ſhine through a dunghill, and yet the beames thereof gather no pollution: albeit I muſt needs blame the Inne-keeper, who aſſig<g ref="char:EOLhyphen"/>ned our <hi>Sauiour</hi> his birth-chamber in a ſtable (like ſome mightie men, who build themſelues ſtately pallaces, and if they haue any roome bad enough, it is good enough for a chappell) yet, herein doth conſiſt ſome part of our Chriſtmaſſe ioy, that <hi>Chriſt</hi> tooke a ſtable and made it a temple,<note place="margin">Mat. 2.11.</note> where the VViſe men worſhipped and offered oblations. Shall we then doubt of his abode in our hearts by his Spirit, whoſe perſonall preſence diſdained not a ſtable? Be it, that we are more vncleane then ſtables, polluted with ſinne and cor<g ref="char:EOLhyphen"/>ruption, inhabited with many beaſtly af<g ref="char:EOLhyphen"/>fections, like horſe and mule without any vnderſtanding; like vntamed haifers or wilde aſſe colts without yoke or bit; yet the preſence of his diuine Spirit will hum<g ref="char:EOLhyphen"/>ble our affections, cleanſe our ſoules, and
+<pb facs="tcp:21045:10" rendition="simple:additions"/>ſanctifie our members, to make them tem<g ref="char:EOLhyphen"/>ples of the holy Ghoſt.</p>
+               <p n="4">4 The worſt roome in the Inne was too good for him, but (thankes be to God) he hath gotten the beſt roome in the ſta<g ref="char:EOLhyphen"/>ble, ſwadled and layed in a manger;<note place="margin">Luk. 2.7.</note> and why? in this place there was none but his friends, and thoſe that loued him well. His mother ſought out the moſt ſweete and ſoft place in all the ſtable, to repoſe the immaculate and tender <hi>Lambe</hi> of <hi>God</hi> in. If any beaſt was there preſent to feede in the manger (as likely at this generall tax<g ref="char:EOLhyphen"/>ing, when the Inne was ſo full, the ſtable was not emptie) the very inſtinct of na<g ref="char:EOLhyphen"/>ture did teach them to know their owner, and their maiſters crib; and after their fa<g ref="char:EOLhyphen"/>ſhion to worſhip the <hi>God</hi> of nature. If ſin<g ref="char:EOLhyphen"/>full man be that ſtable wherein the <hi>Sonne</hi> of <hi>God</hi> doth vouchſafe to repoſe himſelf, aſſigne him the beſt roome, lay him in the manger, giue him thy heart, where all thy affections vſe to feed and ſolace them<g ref="char:EOLhyphen"/>ſelues,
+<pb facs="tcp:21045:11"/>and that heart ſhall feele a heauen<g ref="char:EOLhyphen"/>ly ioy within it, a peace of conſcience which paſſeth all vnderſtanding; it ſhall ſend ioy into heauen amongſt the Angels, who reioyce ouer one ſinner that repents:<note place="margin">Luk. 15.10.</note> it ſhall fetch downe Angels from heauen, with a companie of heauenly ſouldiers, to ſing glorie to <hi>God</hi> on high, in earth peace, and to pitch their tents about thee.</p>
+               <p>
+                  <hi>A man knowes not</hi> (ſaith <hi>Salomon</hi>) <hi>what a day may brîng foorth.</hi>
+                  <note place="margin">Prou. 27.1.</note> Verily, if one day brought foorth thus many ioyes when it brought forth the <hi>Sonne</hi> of <hi>God</hi> well may we crowne it with the Pſalmiſt his Epi<g ref="char:EOLhyphen"/>phonema:<note place="margin">Pſal, 118.24.</note> 
+                  <hi>This is the day which the Lord hath made, we will reioyce and be glad in it.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <pb facs="tcp:21045:11" rendition="simple:additions"/>
+            <head>S. STEVEN.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the <hi>Sonne</hi> of <hi>God</hi> had put on <hi>man,</hi> and couered his Dei<g ref="char:EOLhyphen"/>tie with a veile of fleſh, for da<g ref="char:EOLhyphen"/>zeling our eyes, great things by him were both done and ſuffered for vs. After that man therefore by vertue of thoſe ſufferings, ſhall haue put on <hi>Chriſt,</hi>
+               <note place="margin">Rom. 13 14.</note> it is very meete, that in token of thankes, ſome thing be done and ſuffered by man for the name of Chriſt.<note place="margin">Bernard</note> 
+               <hi>Non decet ſub ſpino<g ref="char:EOLhyphen"/>ſo capite membrum eſse delicatum:</hi> ſince the Head was crowned with thornes to ſaue the bodie, let not the foote diſdaine to catch a thorne in defence of the head: ſince <hi>Chriſt</hi> fought for vs in our owne fleſh till he ſweat againe, and ſweat till he bled, and bled till he died: let this bleſſed. Mar<g ref="char:EOLhyphen"/>tyr teach, that the pureſt bloud in our ſin<g ref="char:EOLhyphen"/>full bodies is not too precious to be pow<g ref="char:EOLhyphen"/>red out for his Goſpell.</p>
+            <pb facs="tcp:21045:12"/>
+            <p> All confeſſe this to be true, but ſome ſay it is too tragicall: a farre vnfit meditation for this <hi>Feaſt:</hi> theſe bloudie dayes of <hi>Ste<g ref="char:EOLhyphen"/>uen</hi> and <hi>Innocents,</hi> might better haue bene referred vnto <hi>Lent,</hi> to accompanie <hi>Good Friday.</hi> For there be many wiſe men, both from the Eaſt and VVeſt, will with ioy he<g ref="char:EOLhyphen"/>nour <hi>Chriſt</hi> in the <hi>cratch,</hi> that would be loth to follow him to the <hi>croſſe.</hi>
+            </p>
+            <p>
+               <hi>S. Paul</hi> did fit the Kings humour well,<note place="margin">Act. 26.29.</note> wiſhing that <hi>Agrippa</hi> were a whole Chri<g ref="char:EOLhyphen"/>ſtian altogether like himſelfe, except thoſe bonds. For if Chriſtianitie inflict bonds, or draw bloud, it is vnſauorie. Vnſauorie indeede vnto fleſh and bloud: but he that hath well taſted of <hi>yeſterdayes</hi> ioy in the birth of a Sauiour, ſhall find it not allayed, but well ſeconded by <hi>this dayes</hi> martyr<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The Apoſtles reioyced that they were accounted worthie to ſuffer for his name:<note place="margin">Act. 5.41.</note> then ſure there is ſome matter of dignitie in ſuffering: and if they reioyced therein,
+<pb facs="tcp:21045:12" rendition="simple:additions"/>why ſhould we be ſad vpon this day? <hi>Chriſt</hi> told vs before:<note place="margin">Ioh. 12.32.</note> 
+               <hi>If I were lift vp from the earth, I will draw men vnto me.</hi> It ſeemeth there is ſome hidden vertue in the <hi>croſse</hi> of <hi>Chriſt,</hi> knowne to none but thoſe that feele the power of it; by which he enticeth men to follow him with delight, euen vnto death. Therefore ſaith <hi>Paul,</hi>
+               <note place="margin">2 Cor. 12.10.</note> 
+               <hi>I take pleaſure <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, in neceſsities, in perſecutions, in <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> It is honorable (thinkes <hi>Haman</hi>) to be ſet vpon the Kings owne horſe, and haue it proclaimed before him:<note place="margin">Eſter 6.9.</note> 
+               <hi>This ſhall be done to the man whom the King will ho<g ref="char:EOLhyphen"/>nour.</hi> Our <hi>King</hi> of <hi>Heauen</hi> was neuer better mounted on earth then vpon an Aſſe and a Croſſe. The Kings on Palfreies: that, to teach humilitie; this, to arme vs with pati<g ref="char:EOLhyphen"/>ence: this ſhall be done to the man whom this <hi>King</hi> will honour. VVhich makes S. <hi>Paul</hi> to glorie in nothing but in the Croſſe of <hi>Chriſt;</hi> who ſtill, as he is preferred to greater dignitie in the Court of <hi>Chriſt,</hi> aſſu<g ref="char:EOLhyphen"/>meth to himſelfe more honorable titles:
+<pb facs="tcp:21045:13"/>
+               <hi>To the Romanes, Corinthians,</hi> and the reſt. Sometimes he calls himſelfe <hi>an Apostle,</hi> ſomtimes <hi>a Seruant of Chriſt;</hi> but the laſt of all is the moſt glorious, in his Epiſtle to <hi>Philemon: Paul a priſoner of Ieſus Chriſt.</hi> It is a Chriſtian paradox: yet that Apoſtle put<g ref="char:EOLhyphen"/>teth vs out of doubt, preferring it before the beſt in his 2. Epiſtle to the Corinth <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 23. <hi>They are miniſters of Chriſt, I ſpeake <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> foole, I am more</hi> why? <hi>In ſtripes aboue <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſure, in priſon more plenteouſly, in death of<g ref="char:EOLhyphen"/>ten, &amp;c.</hi>
+            </p>
+            <p n="3">3 There is a glorious companie of the Apoſtles, a goodly fellowſhip of the Pro<g ref="char:EOLhyphen"/>phets, but a noble armie of Martyrs, as our Church hath well ſung. A noble and a royall armie indeede: for there is no ar<g ref="char:EOLhyphen"/>mie or hoaſt of <hi>God</hi> in heauen or earth, which fighteth ſo like the King himſelfe, as the Martyrs do, which ouercome by ſuffe<g ref="char:EOLhyphen"/>ring; for which victorie <hi>Steuen</hi> doth now enioy that which his name did ſignifie, <hi>a crowne, an eternall crowne of glorie.</hi>
+            </p>
+            <pb facs="tcp:21045:13" rendition="simple:additions"/>
+            <p> If martyrdome then be delightfull, that Saints take pleaſure in it: if it be to be affe<g ref="char:EOLhyphen"/>cted as honorable, that the Apoſtles glorie in it: if as noble and royall, it will crowne vs with glorie; let it not grieue vs to rec<g ref="char:EOLhyphen"/>ken it amongſt our Chriſtian triumphs. The ſtandard-bearer of this royall armie was <hi>S. Steuen,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> the firſt Martyr in ſtrict pro<g ref="char:EOLhyphen"/>prietie of ſpeech that euer was, the firſt <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Goſpell of Chriſt, that con<g ref="char:EOLhyphen"/>formed the ſame with his bloud. The <hi>Inno<g ref="char:EOLhyphen"/>cents</hi> loſt their liues for <hi>Chriſt,</hi> but it was in them no voluntarie oblation. <hi>Iohn Baptiſt</hi> bare record of <hi>Chriſt,</hi> but he died for a Le<g ref="char:EOLhyphen"/>gall truth: <hi>It is not lawfull for thee to haue thy brother Philips wife. Peter</hi> reſolued to haue laid downe his life for <hi>Chriſt;</hi> but hee was too weake. Verily it was decreed, that no man in zeale ſhould loſe a drop of bloud for the witneſſe of <hi>Chriſt</hi> or his Goſpell, be<g ref="char:EOLhyphen"/>fore <hi>Chriſt</hi> in the abundance of loue had ſhed his precious bloud for the loue of man. After <hi>Chriſt</hi> had finiſhed his courſe,
+<pb facs="tcp:21045:14"/>and was ſet at the right hand of his Father, the firſt that entred the liſts, was this valiant Martyr <hi>Steuen,</hi> who fought three notable combats: one in the ſchooles, another be<g ref="char:EOLhyphen"/>fore the councell, and a third at the ſtake.</p>
+            <p n="1">1 Out of the Colledge came Liber<g ref="char:EOLhyphen"/>tines, Cyrenians, they of <hi>Alexandria, Cilicia,</hi> of <hi>Aſia,</hi>
+               <note place="margin">Act. 6.9.</note> and diſputed with him, and were not able (ſaith <hi>Luke</hi>) to reſiſt that wiſedom and ſpirit by which he ſpake. <label type="milestone">
+                  <seg type="milestoneunit">verſ. </seg>10</label> VViſedom without ſpirit, had bene ouer dull and <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t<g ref="char:EOLhyphen"/>tie; ſo many to one might eaſily haue ouer<g ref="char:EOLhyphen"/>crowed him. Spirit without wiſedome, had bene furie, exception might haue bene ta<g ref="char:EOLhyphen"/>ken to his intemperancie: but <hi>wiſedome</hi> go<g ref="char:EOLhyphen"/>ing before as a guide, and <hi>ſpirit</hi> following to ſet an edge vpon it, this victorie was ea<g ref="char:EOLhyphen"/>ſily got.</p>
+            <p n="2">2 Since arguments could not pre<g ref="char:EOLhyphen"/>uaile, of diſputers they became ſergeants, they ranne vpon him, <label type="milestone">
+                  <seg type="milestoneunit">verſ. </seg>12</label> caught him, and brought him to the Councell, ſuborned falſe witneſſes, and produced them againſt
+<pb facs="tcp:21045:14" rendition="simple:additions"/>him. VVhereat <hi>Steuen</hi> was ſo litle daunted, as all that ſate in the Councell ſaw his face as the face of an Angel; not onely for con<g ref="char:EOLhyphen"/>fidence and maieſtie, which was Angelical, <label type="milestone">
+                  <seg type="milestoneunit">verſ. </seg>15</label> but eſpecially that heauenly ioy poſſeſſing his heart (in that he was counted worthie to ſuffer reproch for <hi>Christ</hi>) made him a cheerfull countenance. This heauen he felt within him,<note place="margin">Act. 7.56.</note> and lifting vp his eies he ſaw another about him, readie to receiue him, and <hi>the Sonne of man ſtanding at the right hand of God.</hi> Did <hi>Steuen</hi> eſpie him <hi>ſtanding,</hi> whom <hi>Paul</hi> affirmes to <hi>ſit at the right hand of the Maieſtie?</hi> It is true,<note place="margin">Heb. 1.3.</note> the <hi>King</hi> of glorie ſits vpon the throne in the higheſt places. But while his bleſſed Martyr <hi>Steuen</hi> ſhall ſtand before the Councell as a witneſſe for Chriſt; Chriſt will appeare ſtanding before his Father, as an interceſſour for <hi>Steuen.</hi>
+            </p>
+            <p n="3">3 Iuſtice will not conuict him; they make a tumult,<note place="margin">Act. 7.57.</note> ſtoppe their eares (leſt his words might pierce their hearts, run vpon
+<pb facs="tcp:21045:15"/>him all at once. The reaſons and accuſati<g ref="char:EOLhyphen"/>ons are blunt, ſtones be ſharpe enough) they caſt him out of the citie, <label type="milestone">
+                  <seg type="milestoneunit">verſ. </seg>58</label> and ſtone him: and yet herein is his greateſt triumph; for he commends his ſoule by faith vnto God; his praier in charitie for his perſecu<g ref="char:EOLhyphen"/>tors; and both were accepted of: his ſoule receiued and crowned with glorie; and the young man <hi>Saul</hi> at his conuerſion en<g ref="char:EOLhyphen"/>ioyeth the fruite of <hi>Steuens</hi> prayer.</p>
+            <p>If Martyrs then be ſo happie, ſo wiſe, ſo valiant, ſo chearfull, ſo Angelicall, that nei<g ref="char:EOLhyphen"/>ther ſchoole nor court, nor death nor di<g ref="char:EOLhyphen"/>uell can preuaile further then to haſten their eternall bliſſe: let S. <hi>Steuen</hi> be in the catalogue of ioyfull daies, and let his ex<g ref="char:EOLhyphen"/>ample arme vs to fight vnder the ſame ban<g ref="char:EOLhyphen"/>ner.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:21045:15" rendition="simple:additions"/>
+            <head>SAINT IOHN.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Teuen,</hi> of a faithfull Chriſtian full of the Spirit, was made a Deacon, a Martyr, a leader of that band.</p>
+            <p>
+               <hi>Iohn,</hi> of a Diſciple whom <hi>Ieſus</hi> loued, became an Euangeliſt, an Apoſtle, as an Eagle flying higher in diuine myſteries, and looking more ſteadily vpon <hi>the Sunne of righteouſneſse</hi> then others.</p>
+            <p>
+               <hi>Steuen</hi> glorified <hi>God</hi> by his death; <hi>Iohn</hi> by his long life. <hi>Steuen</hi> by ſowing his bloud; <hi>Iohn</hi> by planting the Church in diuers na<g ref="char:EOLhyphen"/>tions, did glorifie God.</p>
+            <p>
+               <hi>Steuen</hi> by his example taught vs how to ſuffer:<note place="margin">Reuel. 1.9.</note> 
+               <hi>Iohn</hi> foretold in his Reuelation what things we muſt ſuffer: both arme vs with patience in perſecution. <hi>Steuen</hi> offe<g ref="char:EOLhyphen"/>red himſelfe at once: <hi>Iohn</hi> by peece-meales; whoſe life was a continuall mar<g ref="char:EOLhyphen"/>tyrdome.</p>
+            <pb facs="tcp:21045:16"/>
+            <p> This Diſciple excelled the reſt in three prerogatiues.</p>
+            <p n="1">1 He was beloued of <hi>Ieſus</hi> aboue o<g ref="char:EOLhyphen"/>ther: he writ more of his owne knowledge which he had ſeene with his eies, and heard with his eares, then others; and left greater monuments behind him then o<g ref="char:EOLhyphen"/>thers; not of his owne fame, but of the greatneſſe of that little <hi>Babe</hi> which lieth in a manger, and yet fils heauen and earth. <hi>Iohn</hi> was knowne by the name of <hi>the Diſ<g ref="char:EOLhyphen"/>ciple whom Ieſus loued;</hi> but then what mo<g ref="char:EOLhyphen"/>ued <hi>Ieſus</hi> to affect <hi>Iohn</hi> more then the reſt, may be curious to enquire, and more diffi<g ref="char:EOLhyphen"/>cult to find out, vnleſſe it was becauſe he was yonger then the reſt of his followers, and yet more conſtant and reſolute. For a yong man to follow <hi>Chriſt,</hi> it is rare, and therefore amiable. If we vrge youth vnto that, they tell vs (as the diuell told Chriſt) we torment them before their time.<note place="margin">Mat 8.29.</note> For commonly the <hi>prodigall ſon</hi> is the yonger.<note place="margin">Luk. 15.12.</note>
+            </p>
+            <p>Therefore ſince <hi>Iohn</hi> was like that <hi>pur<g ref="char:EOLhyphen"/>ple
+<pb facs="tcp:21045:16" rendition="simple:additions"/>wooll,</hi>
+               <note place="margin">Heb. 9.19.</note> wherewith <hi>Moſes</hi> is ſaid to haue ſprinkled all the people, both died in the <hi>woll</hi> himſelfe with pietie, and an inſtru<g ref="char:EOLhyphen"/>ment alſo to beſprinkle others with the bloud of <hi>Chriſt:</hi> it may be for this cauſe he was more loued then ordinarie. So was yong <hi>Samuel</hi> fauoured of <hi>God:</hi> ſo was <hi>Da<g ref="char:EOLhyphen"/>uid, a man after Gods owne heart,</hi> for he was a man of <hi>God</hi> from a lad: and ſo was little <hi>Daniel,</hi>
+               <note place="margin">Dan. 10.11.</note> 
+               <hi>a man greatly beloued</hi> (as <hi>Gabriel</hi> tel<g ref="char:EOLhyphen"/>leth vs) vnto whom no leſſe reuelations were declared for the old Teſtament, then were vnto <hi>Iohn</hi> for the new. This louing affection vnto religious youth, our <hi>Sauiour</hi> might learne of his <hi>Father;</hi> as S. <hi>Paul</hi> lear<g ref="char:EOLhyphen"/>ned of him to loue his yong ſcholler <hi>Ti<g ref="char:EOLhyphen"/>mothie,</hi> to whom he writ as often as vnto any Church which hee had planted. A goodly motiue to ſhew eſpeciall tokens of familiaritie vnto <hi>Iohn,</hi> in ſuffering him to aske queſtions in ſecret, to leane vpon his breaſt, and to ſucke wiſedome from him.</p>
+            <pb facs="tcp:21045:17"/>
+            <p> Me thinks <hi>Iohn</hi> was vnto <hi>Chriſt</hi> among his Diſciples, as <hi>Beniamin</hi> was vnto <hi>Ioſeph</hi> among his brethren, twice beloued, and brother on both ſides by father and mo<g ref="char:EOLhyphen"/>ther. For <hi>Iohn</hi> was the adopted ſonne of his heauenly Father by grace, as alſo of his earthly mother by fauour. For he ſpake from the Croſſe to the <hi>Virgin</hi> of <hi>Iohn,</hi>
+               <note place="margin">Ioh. 19.26.</note> 
+               <hi>Be<g ref="char:EOLhyphen"/>hold thy ſonne,</hi> and to <hi>Iohn</hi> he ſaid, <hi>Behold thy mother.</hi>
+            </p>
+            <p>This was the fruite of his conſtancie and perſeuerance, who ſtaied by it when the reſt fled; who ſpake litle, and held out, when <hi>Peter</hi> ſaid much,<note place="margin">Luk 22.33.</note> and ranne away. A ſword pierced through his ſoule alſo, as well as his mothers, when his eies beheld the ſpeare pierce the ſide of his Lord and Sauiour.<note place="margin">Ioh. 19.35.</note>
+            </p>
+            <p>Thus was <hi>Chriſt</hi> Alpha and Omega vn<g ref="char:EOLhyphen"/>to <hi>Iohn,</hi> who was Aleph and Thau vnto <hi>Chriſt:</hi> who began betimes, and held out to the end;<note place="margin">Ezek. 9.4.</note> marked in the forehead with the letter <hi>Thau,</hi> the laſt letter of the He<g ref="char:EOLhyphen"/>brew
+<pb facs="tcp:21045:17" rendition="simple:additions"/>Alphabet.</p>
+            <p n="2">2 This is that Diſciple which teſtifi<g ref="char:EOLhyphen"/>eth theſe things,<note place="margin">Ioh. 21.24.</note> 
+               <hi>and we know that his teſti<g ref="char:EOLhyphen"/>monie is true.</hi> Againe,<note place="margin">1. Ioh. 1.1.</note> 
+               <hi>That which we haue heard, which we haue ſeene, which we haue loo<g ref="char:EOLhyphen"/>ked vpon, which our hands haue handled of the Word of life, declare we vnto you.</hi> So he en<g ref="char:EOLhyphen"/>ded his Goſpell, and ſo he began his Epi<g ref="char:EOLhyphen"/>ſtles, who ſaw, and heard, and felt more then the reſt.<note place="margin">Mat. 17.2.</note> He ſaw the <hi>Sonne</hi> of <hi>God</hi> in his glorie, he ſaw him in his full eclipſe; he ſaw him when <hi>his face ſhone like the Sun, and his garments gliſtered white as ſnow:</hi> and againe, when the ſame face was ſpit vpon,<note place="margin">Mat. 27.30. verſ. 35.</note> and his garments deuided. Hee ſaw him glorified on mount <hi>Tabor</hi> with <hi>Moſes</hi> and <hi>Elias:</hi> and after crucified on mount <hi>Calua<g ref="char:EOLhyphen"/>rie,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">verſ. </seg>38</label> betweene two theeues. Hee heard the voice of his Father from heauen:<note place="margin">Mat. 3.17.</note> 
+               <hi>This is my beloued Sonne, in whom I am well pleaſed.</hi> Hee heard the lamentable crie of the <hi>Sonne</hi> of <hi>God</hi> vpon the croſſe: <hi>My God, my God,</hi>
+               <note place="margin">Mat. 27.46.</note> 
+               <hi>why haſt thou forſaken me?</hi> After this, he both ſaw
+<pb facs="tcp:21045:18"/>and heard thoſe heauenly miſteries in that Ile of <hi>Patmos,</hi>
+               <note place="margin">Reuel. 14 9.</note> which this of <hi>England</hi> doth now enioy: thoſe diuine Reuelations, writ<g ref="char:EOLhyphen"/>ten by <hi>Iohn</hi> to the ſeuen Churches of <hi>Aſia,</hi> which are at this day extant in all the Churches of <hi>Europe.</hi>
+            </p>
+            <p n="3">3 He hath left behind him three mo<g ref="char:EOLhyphen"/>numents of eſpeciall note: I meane not his three titles, of <hi>Iohn</hi> the <hi>Euangeliſt,</hi> the <hi>Apoſtle,</hi> the <hi>Diuine:</hi> but his three works, his <hi>Goſpel, Epiſtles,</hi> and <hi>Apocalypſe.</hi> The firſt beginneth from afore all worlds, farre aboue <hi>Moſes</hi> his beginning of the creation,<note place="margin">Ioh. 1.2.</note> 
+               <hi>In the begin<g ref="char:EOLhyphen"/>ning was the Word, &amp;c.</hi> The laſt deſcribeth that heauenly <hi>Ieruſalem,</hi>
+               <note place="margin">Reul. 21.10.</note> which endureth paſt all ages. The firſt is a narration of the Goſpell of <hi>Christ;</hi> the ſecond, an exhorta<g ref="char:EOLhyphen"/>tion vnto the pietie of Saints; the third, a reuelation of the ſtate of the Church. The firſt teacheth faith; the ſecond charitie; the third, hope and patience: ſufficient to make a man perfect in Chriſt. This Apoſtle our Church hath placed in this Feaſt of the
+<pb facs="tcp:21045:18"/>Natiuitie, to the end to teach vs, who that <hi>Babe</hi> was which was borne at <hi>Bethlehem.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>INNOCENTS.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Aruell not that children make vp this traine,<note place="margin">Eſa. 9.6.</note> for <hi>vnto vs a Child is borne,</hi> and ſuch a one as euermore delighteth in lit<g ref="char:EOLhyphen"/>tle ones, like his <hi>Father;</hi> to whom was ne<g ref="char:EOLhyphen"/>uer ſacrifice more acceptable of beaſts then lambes, of birds then yong pigeons. This <hi>Lambe of God</hi> carrieth the ſame mind: <hi>Suffer little children to come vnto me,</hi>
+               <note place="margin">Mat 19.14.</note> 
+               <hi>and for<g ref="char:EOLhyphen"/>bid them not, for to ſuch belongs the kingdome of God.</hi> And if the kingdome belong vnto them, good reaſon they ſhould belong vnto the King: yet neither they nor the King ſhall enter into this kingdome without bloud.<note place="margin">Gen. 4.8.</note>
+            </p>
+            <p>So I thought, when <hi>God</hi> placed <hi>a ſword</hi> at the gate of <hi>Paradiſe;</hi> his meaning was,<note place="margin">Gen. 3.24.</note>
+               <pb facs="tcp:21045:19"/>none ſhould come there againe without loſſe of bloud. Thus paſſed <hi>Habel</hi> (the firſt in the old Teſtament) by his brothers ſword:<note place="margin">Mat. 2.16.</note> and theſe <hi>Innocents</hi> the firſt in the new Teſtament, vnder <hi>Herods</hi> ſword and the reſt.</p>
+            <p>Some going before, ſome following, and the <hi>King</hi> himſelfe in the middeſt, by whoſe ſole vertue and authoritie it was, that both to them before, and vs follow<g ref="char:EOLhyphen"/>ing, the gate of heauen was open, elſe had there bene no paſſage at all. Yet for all this, the <hi>King</hi> telleth vs,<note place="margin">Mat. 7.14.</note> 
+               <hi>The gate is ſtraite, and there be few that go in thereat,</hi> therefore we muſt ſtriue if we meane to enter. The im<g ref="char:EOLhyphen"/>pediments which make the paſſage ſo dif<g ref="char:EOLhyphen"/>ficult to vs, be three in number; all which the example of thoſe Innocents teach vs to auoide or ouercome.</p>
+            <p n="1">1 Firſt the ſword of tribulation,<note place="margin">Act. 14.22.</note> for <hi>by many tribulations muſt we enter into the kingdome of God.</hi>
+               <note place="margin">Mat. 16.24.</note> Therefore <hi>if any will be my diſciple</hi> (ſaith our Sauiour) <hi>let him take vp
+<pb facs="tcp:21045:19"/>his croſſe, as I haue done.</hi> This let, they ouer<g ref="char:EOLhyphen"/>came by ſuffering, and got more by <hi>Herod</hi> his ſword, then if they had bene maintai<g ref="char:EOLhyphen"/>ned at his owne exhibition. Let not this ſtop vs then: for why ſhould any child of <hi>God</hi> be leſſe patient in ſuffering one death for an euerlaſting kingdome, then <hi>Herod</hi> was cruell, inflicting many deaths for an earthly kingdome.</p>
+            <p n="2">2 If <hi>ſinne lie at the doore,</hi>
+               <note place="margin">Gen. 4.7.</note> it will ſtop our paſſage as it did <hi>Cains:</hi> whether it be ſome great notorious ſin, as his was, like a rocke in the ſea, or like a ſand, many little ones heaped together; either of them will dam vp the gate, &amp; make the conſcience to ſuf<g ref="char:EOLhyphen"/>fer ſhipwracke. Therefore to preuent that, theſe paſſengers were Innocents, entring in this doore before they had clogged it with many ſinnes: whoſe example in this kind, <hi>S. Paul</hi> commends vnto vs:<note place="margin">1. Cor. 14.20.</note> 
+               <hi>As concer<g ref="char:EOLhyphen"/>ning maliciouſnes be ye children.</hi> For children haue their faults, yet commonly they pro<g ref="char:EOLhyphen"/>ceed in them either of ignorance or infir<g ref="char:EOLhyphen"/>mitie,
+<pb facs="tcp:21045:20"/>or both; and ſo long <hi>God</hi> is merci<g ref="char:EOLhyphen"/>full vnto vs. But if maliciouſneſſe and pre<g ref="char:EOLhyphen"/>ſumptuous ſinnes get a hand ouer vs, they wil ſtop the gate of heauen, and much ado ſhall we haue to paſſe: for this cauſe <hi>ſtraite is the gate, and few there be that go in thereat.</hi>
+            </p>
+            <p n="3">3 As we haue made the gate ſtraite through our default; ſo if we grow ouer<g ref="char:EOLhyphen"/>big, ſo much the worſe. A threed may en<g ref="char:EOLhyphen"/>ter where a cammell cannot. Theſe <hi>Inno<g ref="char:EOLhyphen"/>cents</hi> were little in bodie and mind,<note place="margin">Mat. 2.16.</note> two yeares old and vnder: but the diuels diſ<g ref="char:EOLhyphen"/>eaſe is a ſwelling diſeaſe, and ſo infectious at the firſt, as our parents got it of him in <hi>Paradiſe;</hi> ſince which time it is growne he<g ref="char:EOLhyphen"/>reditarie to the ſonnes of <hi>Adam.</hi>
+            </p>
+            <p>This caſt <hi>Nebuchadnezzar</hi> out of his earthly kingdome:<note place="margin">Dan. 4.28.</note> and it muſt be aſſwa<g ref="char:EOLhyphen"/>ged in vs, or we ſhall neuer enter the hea<g ref="char:EOLhyphen"/>uenly. The <hi>Phariſy</hi> ſwelled in conceit of his owne righteouſneſſe,<note place="margin">Luke 16.14.</note> and ſtucke faſt: the <hi>Publican</hi> ſtooped, and went in. <hi>Zacheus</hi> was great in riches;<note place="margin">Luke 19.8.</note> he diminiſhed himſelf
+<pb facs="tcp:21045:20"/>by reſtitution, by charitie to the poore, and paſſed. For this gate (it ſeems) is made for children onely to creepe through. <hi>Ve<g ref="char:EOLhyphen"/>rily I ſay vnto you,</hi>
+               <note place="margin">Mat. 18.3.</note> 
+               <hi>except ye become as little children, ye ſhall not enter into the kingdome of God.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>CIRCVMCISION.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He moneth of <hi>Niſan</hi> (when Iſrael ſhould be ſprinkled with the bloud of the Paſchall Lambe) was to be reckened the firſt moneth of the yeare,<note place="margin">Exod. 12.2.</note> that by ſo good a beginning, the reſt of the yeare might the better be hallowed. It is not then amiſſe to beginne a new reuolution with the remembrance of thoſe drops of bloud wherewith all the world was be<g ref="char:EOLhyphen"/>ſprinkled, and no doubt ſanctified, at the circumciſion of the <hi>Lambe of God.</hi> They were but a few drops, I confeſſe, not the whole price of our redemption; yet ſuffi<g ref="char:EOLhyphen"/>cient
+<pb facs="tcp:21045:21"/>though for an earneſt penie: the en<g ref="char:EOLhyphen"/>tire Sonne was after tendred vpon the Croſſe at his paſſion. Yet becauſe onely the bloud of <hi>Christ,</hi> and no other, was a ſufficient ranſome for the world, it was therefore very behouefull, that before he paied the ranſome, he ſhould approue himſelfe to be the very true <hi>Meſsias</hi> and Redeemer; and this was performed at his Circumciſion. For (ſaith the text) <hi>when eight dayes were accompliſhed that they ſhould circumciſe the child, his name was called Ieſus.</hi> He was circumciſed, to approue himſelfe truly man, fleſh of our fleſh: and his name was called <hi>Ieſus,</hi> which ſignifieth <hi>God our Sauiour.</hi> Circumciſed, that the Iewes might acknowledge him to be the Sonne of <hi>A<g ref="char:EOLhyphen"/>braham:</hi> called <hi>Ieſus,</hi> that he might be re<g ref="char:EOLhyphen"/>ceiued for the Sonne of <hi>God.</hi> Circumci<g ref="char:EOLhyphen"/>ſed, to become ſubiect to the law:<note place="margin">Gal. 5.3</note> for <hi>he that is circumciſed</hi> (ſaith <hi>S. Paul</hi>) <hi>is bound to keepe the law.</hi> Called <hi>Ieſus,</hi> to ſaue vs from the curſe of the law. Circumciſed, to take
+<pb facs="tcp:21045:21"/>vpon him the ſimilitude of ſinfull fleſh, (for that was a ſacrament of originall corruption.) Called <hi>Ieſus,</hi> that he might ſaue his people from their ſinnes, as the Angell expounded his name vnto <hi>Ioſeph.</hi>
+            </p>
+            <p>This Circumciſion he firſt ſuffered for vs in the fleſh, and after performed the true effect thereof within vs by his Spirit, to wit, a <hi>Circumciſion made without hands</hi> (as the Apoſtle ſpeakes) by putting off the ſinfull bodie of the fleſh, through the cir<g ref="char:EOLhyphen"/>cumciſion of <hi>Chriſt,</hi> who by his ſpirituall knife, firſt cutteth off the foreskinne of our hearts, and makes them bleede, in ſorrow for our ſinnes paſt: for Circumciſion is a bloudie thing (as <hi>Zipporah</hi> ſaid to <hi>Moſes</hi>) and he that will be a true Iſraelite, his heart muſt bleed. 2. The foreskin being remo<g ref="char:EOLhyphen"/>ued, which hardned our hearts before, there followeth a tenderneſſe of conſci<g ref="char:EOLhyphen"/>ence, which giueth a quicker ſenſe of fu<g ref="char:EOLhyphen"/>ture tranſgreſſion. Next, he purgeth the vine branches that they may bring forth
+<pb facs="tcp:21045:22"/>more fruite: circumciſing all ſuperfluous and vaine cogitations in vs: lopping all luxurious affections, leſt ouergrowing they might ouerthrow vs (like <hi>Abſolons</hi> haire) for want of cutting. So are we alſo of cir<g ref="char:EOLhyphen"/>cumciſed lips and eares, when our mouth ſhall ſpeake no vanitie, and our eares reliſh the word of wiſedome,</p>
+            <p>Thus renewed in heart and affection, in ſoule and bodie (when <hi>old things are paſſed,</hi>
+               <note place="margin">2. Cor. 5.17.</note> 
+               <hi>and all things are become new</hi>) we may offer and preſent vnto <hi>God,</hi> the <hi>poore widowes</hi> of<g ref="char:EOLhyphen"/>fering of <hi>two mites,</hi> our ſoule and bodie to be a liuing ſacrifice, and an acceptable New-yeares gift vnto him (ſince it is all that we haue) thereby aſſuring our ſelues that our names are knowne, and called, and written in heauen; for the Spirit hath circumciſed vs.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:21045:22"/>
+            <head>EPIPHANIE.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E may well conclude with the manifeſtation of Chriſt vnto the Gentiles. For without this, all that hath bene ſaid is no<g ref="char:EOLhyphen"/>thing vnto vs, who be (as the Apoſtle tel<g ref="char:EOLhyphen"/>leth vs) ſinners of the Ge<g ref="char:cmbAbbrStroke">̄</g>tiles. But now <hi>God</hi> perſwades <hi>Iapheth</hi> to dwell in the tents of <hi>Shem,</hi> that is,<note place="margin">Gen. 9.27.</note> the Gentiles which came of <hi>Iapheth,</hi> to ioyne themſelues vnto the Church, which is the poſteritie of <hi>Shem;</hi> for which thing father <hi>Noah</hi> prayed long ſince.<note place="margin">Iob 38.13.</note> Now <hi>the morning takes hold of the cor<g ref="char:EOLhyphen"/>ners of the earth</hi> (as <hi>God</hi> ſaid to <hi>Iob</hi>) <hi>that the wicked might be ſhaken out of it:</hi> for the Sun of righteouſneſſe ſhineth to the men of the Eaſt.<note place="margin">Zachar. 2.4.</note> Now <hi>Ieruſalem</hi> begins to be <hi>inha<g ref="char:EOLhyphen"/>bited without wals</hi> (as <hi>Zachary</hi> propheſied) when the Church ſhall not be hemmed within the precinct of that nation. Now the <hi>great myſtery of godlineſſe is reuealed,</hi> when
+<pb facs="tcp:21045:23"/>
+               <hi>God manifeſted in the fleſh, is preached to the Gentiles.</hi> For theſe VViſemen were the firſt fruits of the Gentiles: whereupon followed a mightie harueſt. The harueſt indeede is great, <hi>Go and teach all nations.</hi> This <hi>word</hi> of life in <hi>Dauids</hi> time was but <hi>a light</hi> and <hi>a lanterne:</hi>
+               <note place="margin">Pſ. 119. v. 105. Nun.</note> now it is a <hi>morning Starre</hi> appea<g ref="char:EOLhyphen"/>ring in the Eaſt; and after, a <hi>Sunne of righ<g ref="char:EOLhyphen"/>teouſneſse, which enlighteneth euery one that cometh into the world:</hi>
+               <note place="margin">Ioh. 1.9.</note> whoſe beames di<g ref="char:EOLhyphen"/>rectly behold theſe corners and ends of the world; vpon which the firmamentall Sunne looketh but aſquint. Now is the Goſpell preached (as <hi>Chriſt</hi> gaue in com<g ref="char:EOLhyphen"/>mandement) vnto euery creature; not vn<g ref="char:EOLhyphen"/>to men onely, but euen to thoſe barbarous nations which ſcarce caried the face of men, theſe ſilly creatures in times paſt vn<g ref="char:EOLhyphen"/>acquainted with the lawes of ciuill huma<g ref="char:EOLhyphen"/>nitie. This is the meane crop: the firſt fruits were the wiſe men of the Eaſt: with whom <hi>Chriſt</hi> dealeth in their owne art: (that he might haue the faſter hold of them) for he
+<pb facs="tcp:21045:23"/>leadeth them by a ſtarre, becauſe they were Aſtronomers, and therefore able to diſ<g ref="char:EOLhyphen"/>cerne a miracle in that kind. So he dealt with his owne Diſciples by ſea, ſtilling the tempeſt, and cauſing <hi>Peter</hi> to walke vpon the waters, becauſe they were watermen: by thoſe miraculous draughts of fiſh, be<g ref="char:EOLhyphen"/>cauſe they were fiſhermen: hereby ſhew<g ref="char:EOLhyphen"/>ing himſelfe to be that wiſe maiſter-fiſher of ſoules, which fitteth his baite to euery kind.</p>
+            <p>VVe ſee the goodneſſe of <hi>God</hi> vnto the Gentiles, in that <hi>Chriſt</hi> was manifeſted to thoſe men: ſhall we learne the dutie of the Gentiles towards <hi>God,</hi> by the deuo<g ref="char:EOLhyphen"/>tion of theſe men vnto <hi>Chriſt?</hi> They came to worſhip him in heart, in bodie, and in goods: they opened their treaſuries; and where the treaſure is, there is the heart. The heart commands the bodie (as the Centurion his ſeruant) ſaying to the foot, Go, and it goeth, &amp;c.</p>
+            <p>Neither did they come to worſhip <hi>Chriſt</hi>
+               <pb facs="tcp:21045:24"/>emptie handed,<note place="margin">Deut. 16.16.17</note> but brought with them ſuch gifts as their countrey did affoord, gold, incenſe and myrrhe; <hi>Aurumregi, Thus Deo, Myrrhamorituro.</hi> Gold, not ſo much to relieue the wants of his poore parents, (who were able to compaſſe no better a birth-chamber then a ſtable) as to ſhew themſelues tributaries to his Maieſty, vnto whom was giuen <hi>the heathen for his inheri<g ref="char:EOLhyphen"/>tance,</hi>
+               <note place="margin">Pſal. 2.8.</note> 
+               <hi>and the ends of the world for his poſſeſ<g ref="char:EOLhyphen"/>ſions.</hi> Frankencenſe was brought, not ſo much to ſweeten the place, as by incenſe to acknowledge the Deitie of the <hi>Son</hi> of <hi>God.</hi> Myrrhe was alſo offered with no leſſe myſterie, then <hi>Mary</hi> her ointment at the day of his buriall: for it is to preſerue his dead bodie from corruption, who being dead and buried, yet ſaw no corruption.</p>
+            <p n="1">1 If then wee receiue <hi>Chriſt</hi> for our heauenly King, and Soueraigne of our ſoules, in obedience vnto his Euangelicall law, it is as much as if we brought gold, and much fine gold.</p>
+            <p n="2">
+               <pb facs="tcp:21045:24"/> 2 If we offer vp <hi>prayers</hi> and thankſ<g ref="char:EOLhyphen"/>giuing, that is, ſaith <hi>Dauid, as incenſe,</hi>
+               <note place="margin">Pſal. 141.2.</note> 
+               <hi>and the vplifting of our hands as an euening ſa<g ref="char:EOLhyphen"/>crifice.</hi>
+            </p>
+            <p n="3">3 If in deuotion wee relieue the Church, and preſerue the members of his myſticall bodie militant, from corruption, diſtreſſe and miſerie; this is as Myrrhe vn<g ref="char:EOLhyphen"/>to his naturall bodie.</p>
+            <p>Theſe be our Chriſtian oblations:
+<list>
+                  <item>1 Obedience to his law, the fruite of faith.</item>
+                  <item>2 Prayers and ſupplications, groun<g ref="char:EOLhyphen"/>ded vpon hope.</item>
+                  <item>3 Deuotion and almes, proceeding from charitie towards our brethren.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Noſter enim taleis reddit agellus opes.</hi>
+            </p>
+            <p>Theſe be all which our earthly mould by the influence of heauen can yeeld: which, that it may yeeld, looke we ſted<g ref="char:EOLhyphen"/>faſtly (with <hi>Elias</hi>) vpon this <hi>little clowde,</hi>
+               <note place="margin">1. King. 18.44</note> riſing at the firſt no bigger then a mans hand, or the breadth of a Crib; from which
+<pb facs="tcp:21045:25"/>wee deſire and expect thoſe manifold drops of the graces of his Spirit to fall vpon our hearts, that we may returne vnto him, together with his Father and Spi<g ref="char:EOLhyphen"/>rit, all praiſe, honour and thankes this time and for euer. Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:21045:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
